@@ -1,4 +1,4 @@
-#Here is a brief introduction of EnterpriseApp supported by Ha's Group.
+Here is a brief introduction of EnterpriseApp supported by Ha's Group.
 ##Group Member
     ###1511447 唐鹏森
     ###1234567 严骅
