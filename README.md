@@ -13,7 +13,7 @@
 
 # Necessary Links
 
-- [Disccuion in meetings](./Discssion2.pdf)
+- [Disccuion in meetings](./Discussion2.pdf)
 - [Design Prototype](./page2.md)
 - [Database Design](./page2.md)
 
