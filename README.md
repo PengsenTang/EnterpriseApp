@@ -11,4 +11,9 @@
 - 1511123 刘奕伶
 - 1511123 樊文杰
 
-[Disccuion in meetings](./page2.md) [Design Prototype](./page2.md) [Database Design](./page2.md)
+# Necessary Links
+
+- [Disccuion in meetings](./page2.md)
+- [Design Prototype](./page2.md)
+- [Database Design](./page2.md)
+
